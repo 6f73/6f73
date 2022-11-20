@@ -1,4 +1,12 @@
-### Hi there 👋
+# 🧙‍♂️ 6f73
+
+**`Developer`**
+
+I create games and other software as a hobby in my spare time. I'm very interested in everything related to information technology and keen on learning more. Every project is built from the ground up all by my self, including code, art and design.
+
+The quote "It's not the **destination**, it's the **journey**." by Ralph Waldo Emerson describes my philosophy of programming quite well.
+
+
 
 <!--
 **6f73/6f73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
