@@ -14,7 +14,7 @@ The quote "It's not the **destination**, it's the **journey**." by Ralph Waldo E
 
 <img src="https://user-images.githubusercontent.com/117943102/202915447-95570b26-6d84-4bed-8075-b18887e24f10.png" width="300"/> <img src="https://user-images.githubusercontent.com/117943102/202915459-747d47e9-12ef-4f17-8ae8-2d6d779a9a7a.png" width="300"/> <img src="https://user-images.githubusercontent.com/117943102/202915465-7b6d8b32-5442-4342-9fea-8b0e4025f958.png" width="300"/>
 
-[Link](https://play.google.com/store/apps/details?id=com.official_6f73.Hexagonum)
+[Hexagonum on Google Play](https://play.google.com/store/apps/details?id=com.official_6f73.Hexagonum)
 
 ---
 
