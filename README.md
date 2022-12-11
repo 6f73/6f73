@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/117943102/205738222-45bade14-5df0-4ae2
 
 ## Unnamed 3D project
 
-Old 3D game I made.
+Old 3D test project I made.
 
 https://user-images.githubusercontent.com/117943102/205738664-76971c86-9dc3-4f18-9ae9-366b400fa9d9.mp4
 
