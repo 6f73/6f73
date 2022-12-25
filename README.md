@@ -2,7 +2,7 @@
 
 **`Developer`**
 
-I create games and other software as a hobby in my spare time. Information technology enthusiast who's keen on learning more. Every project is built from the ground up all by my self, including code, art and design. Although my projects may contain sound effects and fonts that are not mine.
+I create games and other software as a hobby in my spare time. Information technology enthusiast who's keen on learning more. Every project is built from the ground up all by my self, including code, art and design. However my projects may contain sound effects and fonts that are not mine.
 
 The quote "It's not the **destination**, it's the **journey**." by Ralph Waldo Emerson describes my philosophy of programming quite well.
 
